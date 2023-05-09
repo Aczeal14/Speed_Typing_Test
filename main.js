@@ -2,6 +2,8 @@ import './style.css';
 import viteLogo from '/vite.svg';
 import { app } from './src/app';
 
+
+
 const testItem = document.getElementById("textDisplay");
 const inputItem = document.getElementById("textInput");
 const timeName = document.getElementById("timeName");
